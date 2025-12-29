@@ -58,5 +58,5 @@ Untuk uji coba menggunakan localhost, dapat menggunakan IP 127.0.0.1
 <p align="center">
   <img src='https://github.com/kanashifumiku/PesanKoeAppChat/blob/main/aset/PWxPOLSRI.png' width='50%'>
 </p>
-2025 - Alpino, M./Kanashifumiku (Pinothorium Works) <br>
+2025 - M. Fathir,/Aulia <br>
 Proyek ini dibuat dengan tujuan untuk memenuhi persyaratan ujian Praktikum Komunikasi Data, Politeknik Negeri Sriwijaya
